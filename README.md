@@ -21,3 +21,6 @@ The model was trained using a custom dataset comprising 119 images of a car, aug
 
 ![image](https://github.com/124135417/drone/assets/73296496/6647f545-0a90-4528-9cfb-c497d39169d4)
 
+### Run on Raspberry Pi
+```bash
+python3 detect.py \ --model yourModelName.tflite
